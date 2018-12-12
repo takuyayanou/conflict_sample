@@ -1,0 +1,1 @@
+html, body { height: 100%; }body {  margin: 0;  background-image: url(images/wall.png), url(images/plane.png), url(images/sky.jpg);  background-position: bottom, 50% 10%, center;  background-repeat: no-repeat;  -webkit-background-size: 100% auto, auto, cover;  -moz-background-size: 100% auto, auto, cover;  background-size: 100% auto, auto, cover;}

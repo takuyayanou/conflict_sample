@@ -1,0 +1,21 @@
+#page {
+  margin: 0 auto;
+  width: 300px;
+}
+
+header, footer {
+  text-align: center;
+  color: #fff;
+  background: #bbb;	/* グレー */
+}
+
+#main {
+  color: #fff;
+  background: #fc0;	/* 黄色 */
+}
+
+#sub {
+  color: #fff;
+  background: #390;	/* 緑 */
+}
+

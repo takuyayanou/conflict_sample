@@ -1,0 +1,40 @@
+#page {
+  margin: 0 auto;
+  width: 400px;
+}
+
+header, footer {
+  text-align: center;
+  color: #fff;
+  background: #bbb;
+}
+
+#main {
+  float: right;
+  width: 200px;
+  color: #888;
+  background: #eee;
+}
+
+#sub1 {
+  float: left;
+  width: 100px;
+  color: #fff;
+  background: #390;
+}
+
+#contents {
+  float: left;
+  width: 300px;
+}
+
+#sub2 {
+  float: right;
+  width: 100px;
+  color: #fff;
+  background: #fc0;
+}
+
+footer {
+  clear: both;
+}

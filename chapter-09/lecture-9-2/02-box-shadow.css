@@ -1,0 +1,1 @@
+body { margin: 22px 0 0 22px; }p { margin: 12px 0 0 0; }textarea { border: 1px solid #666; }#sample1 {  -webkit-box-shadow: 5px 5px 10px #999;  -moz-box-shadow: 5px 5px 10px #999;  box-shadow: 5px 5px 10px #999;}#sample2 {  -webkit-box-shadow: inset 5px 5px 10px #999;  -moz-box-shadow: inset 5px 5px 10px #999;  box-shadow: inset 5px 5px 10px #999;}
